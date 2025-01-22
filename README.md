@@ -17,5 +17,6 @@ After that,each group need at least one staff to interviewed<br/>
 Based from this visit,the task is making a video or vlog and reflection from each speaker during this visit<br/>
 ![photo_2025-01-07_21-25-35](https://github.com/user-attachments/assets/a9dec067-4212-416d-89d5-824445d726c7)
 <br/>
+![photo_2025-01-11_09-00-51](https://github.com/user-attachments/assets/c7ed2fbe-1eb0-43b6-990b-27990d4afd68)
 
 
