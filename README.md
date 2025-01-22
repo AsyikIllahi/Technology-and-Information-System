@@ -1,7 +1,13 @@
 # Technology-and-Information-System
 SECP1013 Tecnology and Information system.<br/> 
 Lectured by:DR AZURAH.<br/> 
-This repository be the evidence of assignment and project for this course.<br/> 
+This repository as the evidence of assignments and projects for this course.<br/> 
+# Design Thinking Project 
+Theme:Solution for problem faced by disability and elderly people.<br/>
+Solution:From group 2,we come out makin an app that help disability people to find their job
+Process:Starting with project briefing from Dr Azurah,then we discuss solution and making the prototype.<br/>
+Moreover,we did interview session with disability people in mental aspect to understand their struggle to find job.<br/>
+![photo_2025-01-22_11-23-01](https://github.com/user-attachments/assets/2d43bdee-efed-425d-a6be-f8262c6dc2c9)
 
 # Assignment 1
 Reflection Poster from industry talk from AirAsia company.<br/>  
@@ -18,5 +24,15 @@ Based from this visit,the task is making a video or vlog and reflection from eac
 ![photo_2025-01-07_21-25-35](https://github.com/user-attachments/assets/a9dec067-4212-416d-89d5-824445d726c7)
 <br/>
 ![photo_2025-01-11_09-00-51](https://github.com/user-attachments/assets/c7ed2fbe-1eb0-43b6-990b-27990d4afd68)
+
+
+# Assignment 3
+Industry Talk UTM. <br/>
+We are given a video industry talk conducted by UTM alumni which are Mr Nik Mohd Habibullah,Executive Leader of Micro Semiconductor and Mr Mohd Hakimi Iqmal Information Technology Staff UTMDIGITAL. <br/>
+Based from the video,we do academic writting about the content and reflection from each group members.<br/>
+
+![Screenshot 2025-01-07 212712](https://github.com/user-attachments/assets/aacce279-cf2b-4c66-89e4-ee3c240a4f3d)
+
+# Assignment 4
 
 
