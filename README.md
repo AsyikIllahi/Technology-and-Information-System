@@ -4,7 +4,7 @@ Lectured by:DR AZURAH.<br/>
 This repository as the evidence of assignments and projects for this course.<br/> 
 # Design Thinking Project 
 Theme:Solution for problem faced by disability and elderly people.<br/>
-Solution:From group 2,we come out makin an app that help disability people to find their job
+Solution:From group 2,we come out makin an app that help disability people to find their job.<br/>
 Process:Starting with project briefing from Dr Azurah,then we discuss solution and making the prototype.<br/>
 Moreover,we did interview session with disability people in mental aspect to understand their struggle to find job.<br/>
 ![photo_2025-01-22_11-23-01](https://github.com/user-attachments/assets/2d43bdee-efed-425d-a6be-f8262c6dc2c9)
@@ -34,5 +34,5 @@ Based from the video,we do academic writting about the content and reflection fr
 ![Screenshot 2025-01-07 212712](https://github.com/user-attachments/assets/aacce279-cf2b-4c66-89e4-ee3c240a4f3d)
 
 # Assignment 4
-
+Industry Visit.
 
