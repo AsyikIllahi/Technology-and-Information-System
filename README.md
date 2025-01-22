@@ -1,7 +1,7 @@
 # Technology-and-Information-System
-SECP1013 Tecnology and Information system 
-Lectured by:DR AZURAH
-This repository be the evidence of assignment and project for this course
+SECP1013 Tecnology and Information system. 
+Lectured by:DR AZURAH.
+This repository be the evidence of assignment and project for this course.
 
 # Assigment 1
 Reflection Poster from industry talk from AirAsia company. 
