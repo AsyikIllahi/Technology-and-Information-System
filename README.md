@@ -17,7 +17,8 @@ Where we need to watch video of indsutry talk about work culture of AirAsia.
 
 
 # Assignment 2
-UTM digital visit<br/> 
+UTM digital visit<br/> ![Screenshot 2025-02-11 202130](https://github.com/user-attachments/assets/19219ace-f735-4a5d-9943-d1b098723b17)
+
 On 17 December 2024,we visit to UTM Digital office where we explore and gain knowledge about their hierrachy and work culture.<br/>
 After that,each group need at least one staff to interviewed<br/> 
 Based from this visit,the task is making a video or vlog and reflection from each speaker during this visit<br/>
@@ -34,5 +35,11 @@ Based from the video,we do academic writting about the content and reflection fr
 ![Screenshot 2025-01-07 212712](https://github.com/user-attachments/assets/aacce279-cf2b-4c66-89e4-ee3c240a4f3d)
 
 # Assignment 4
-Industry Visit.
+Newsletter Industrial Talk.<br/>
+For my group,we get industry talk from Telekom Malaysia(TM) company about Fourth Industry Revolutions.<br/>
+![Screenshot 2025-02-11 202106](https://github.com/user-attachments/assets/d93c6c8b-9245-4cb2-8b3d-2c01a9495dc5)
+<br/>
+![Screenshot 2025-02-11 202130](https://github.com/user-attachments/assets/10f4c2e7-ce73-4fe0-965d-fc919c7c038c)
+
+
 
