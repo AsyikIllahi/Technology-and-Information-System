@@ -17,7 +17,7 @@ Where we need to watch video of indsutry talk about work culture of AirAsia.
 
 
 # Assignment 2
-UTM digital visit<br/> ![Screenshot 2025-02-11 202130](https://github.com/user-attachments/assets/19219ace-f735-4a5d-9943-d1b098723b17)
+UTM digital visit<br/> 
 
 On 17 December 2024,we visit to UTM Digital office where we explore and gain knowledge about their hierrachy and work culture.<br/>
 After that,each group need at least one staff to interviewed<br/> 
